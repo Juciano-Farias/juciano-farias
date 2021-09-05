@@ -1,9 +1,14 @@
-### Hello! I'm Juciano Farias 
+### Hello! I'm Juciano Farias,
 
-- 🔭 I’m currently not working.
-- 🌱 I’m currently learning Javascript for front-end, and back-end with node.js.
+#### Brazilian 22 years old. I began to study programming at the end of my first bachelor degree in 2021. Here you can see some of my personal projects and some copies. I hope you find something cool! 
+
+##
+
+- 🔭 I’m currently searching for a job.
+- 📚 I’m currently living in Portugal.
+- 🌱 I’m currently learning Javascript and aiming for node.js.
 - 😄 Pronouns: he/him.
-- 🎮 Fun fact: I really like to play fps games, but i'm actually terrible!!
+- 👒 Fun fact: I'm a big fan of One Piece!
 
  <div style="display: inline-block">
   <a href="https://github.com/juciano-farias">
@@ -19,6 +24,11 @@
 
     
 ##
-    
+ 
+<div> 
+  <a href = "mailto:jucianogfjr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jucianogf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.instagram.com/juciano_gomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
     
     
