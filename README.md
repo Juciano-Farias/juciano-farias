@@ -23,6 +23,8 @@
   <img align="center" alt="Juciano-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Juciano-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Juciano-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="Juciano-Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-original.svg">
+  <img align="center" alt="Juciano-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
     
