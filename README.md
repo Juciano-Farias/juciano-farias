@@ -7,7 +7,6 @@
 - 🔭 I’m currently searching for a job.
 - 📚 I’m currently living in Portugal.
 - 🌱 I’m currently learning Javascript, MongoDB, NodeJs, ReactJs and NextJs.
-- 😄 Pronouns: he/they.
 - 👒 Fun fact: I'm a big fan of One Piece!
 
  <div style="display: inline-block">
