@@ -1,6 +1,6 @@
 ### Hello! I'm Juciano Farias,
 
-#### Brazilian 22 years old. I began to study programming at the end of my first bachelor degree in 2021. Here you can see some of my personal projects and some copies. I hope you find something cool! 
+#### Web Developer. Here you can see some of my personal projects. I hope you find something cool! 
 
 ##
 
