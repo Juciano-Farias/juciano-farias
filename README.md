@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently searching for a job.
 - 📚 I’m currently living in Portugal.
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning Typescript.
 - 👒 Fun fact: I'm a big fan of One Piece!
 
  <div style="display: inline-block">
