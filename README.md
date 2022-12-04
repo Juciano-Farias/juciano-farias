@@ -4,9 +4,9 @@
 
 ##
 
-- 🔭 I’m currently searching for a job.
+- 🔭 I’m currently working as .
 - 📚 I’m currently living in Portugal.
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently studying Computer Systems Engineering.
 - 👒 Fun fact: I'm a big fan of One Piece!
 
  <div style="display: inline-block">
@@ -23,6 +23,7 @@
   <img align="center" alt="Juciano-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Juciano-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Juciano-Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Juciano-Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Juciano-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Juciano-next" style="color:white" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
 </div>
