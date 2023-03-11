@@ -4,7 +4,7 @@
 
 ##
 
-- 🔭 I’m currently working as .
+- 🔭 I’m currently working as a frontend developer
 - 📚 I’m currently living in Portugal.
 - 🌱 I’m currently studying Computer Systems Engineering.
 - 👒 Fun fact: I'm a big fan of One Piece!
