@@ -1,6 +1,6 @@
-### Hello! I'm Juciano Farias,
+### Hello! I'm Juciano Farias.
 
-#### Web Developer. Here you can see some of my personal projects. I hope you find something cool! 
+#### I'm a web Developer. Here you can see some of my personal projects. I hope you find something cool! 
 
 ##
 
