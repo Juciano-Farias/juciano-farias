@@ -1,12 +1,12 @@
 ### Hello! I'm Juciano Farias.
 
-#### I'm a web Developer. Here you can see some of my personal projects. I hope you find something cool! 
+#### I'm a software . Here you can see some of my personal projects.
 
 ##
 
-- 🔭 I’m currently working as a frontend developer
+- 🔭 I’m currently working as a software engineer.
 - 📚 I’m currently living in Portugal.
-- 🌱 I’m currently studying Computer Systems Engineering.
+- 🌱 I’m pursuing a master's degree in Computer Systems Engineering.
 - 👒 Fun fact: I'm a big fan of One Piece!
   
   <div style="display: inline_block"><br>
